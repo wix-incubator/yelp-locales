@@ -1,0 +1,48 @@
+'use strict'
+
+// The data below is based on the language selector in www.yelp.com
+
+// Maps locales to TripAdvisor domains
+export const localeDomains = {
+	'ms_MY': 'ms.yelp.my',
+	'cs_CZ': 'www.yelp.cz',
+	'da_DK': 'www.yelp.dk',
+	'de_DE': 'www.yelp.de',
+	'de_CH': 'de.yelp.ch',
+	'de_AT': 'www.yelp.at',
+	'en_AU': 'www.yelp.com.au',
+	'en_BE': 'en.yelp.be',
+	'en_CA': 'www.yelp.ca',
+	'en_HK': 'en.yelp.com.hk',
+	'en_MY': 'en.yelp.my',
+	'en_NZ': 'nz.yelp.com',
+	'en_PH': 'en.yelp.com.ph',
+	'en_IE': 'www.yelp.ie',
+	'en_SG': 'www.yelp.com.sg',
+	'en_CH': 'en.yelp.ch',
+	'en_GB': 'www.yelp.co.uk',
+	'en_US': 'www.yelp.com',
+	'es_AR': 'www.yelp.com.ar',
+	'es_CL': 'www.yelp.cl',
+	'es_ES': 'www.yelp.es',
+	'es_MX': 'www.yelp.com.mx',
+	'fr_BE': 'fr.yelp.be',
+	'fr_CA': 'fr.yelp.ca',
+	'fr_FR': 'www.yelp.fr',
+	'fr_CH': 'fr.yelp.ch',
+	'it_IT': 'www.yelp.it',
+	'it_CH': 'it.yelp.ch',
+	'nl_BE': 'nl.yelp.be',
+	'nl_NL': 'www.yelp.nl',
+	'nb_NO': 'www.yelp.no',
+	'pl_PL': 'www.yelp.pl',
+	'pt_BR': 'www.yelp.com.br',
+	'pt_PT': 'www.yelp.pt',
+	'fi_FI': 'fi.yelp.fi',
+	'sv_FI': 'sv.yelp.fi',
+	'sv_SE': 'www.yelp.se',
+	'tr_TR': 'www.yelp.com.tr',
+	'ja_JP': 'www.yelp.co.jp',
+	'zh_TW': 'www.yelp.com.tw',
+	'zh_HK': 'zh.yelp.com.hk'
+}
