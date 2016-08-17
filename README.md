@@ -13,7 +13,7 @@ var YelpLocales = require('yelp-locales').YelpLocales;
 YelpLocales.bestDomainFor('en_US'); //-> 'www.yelp.com'
 YelpLocales.bestDomainFor("de_DE"); //-> 'www.yelp.de'
 
-YelpLocales.bestPageUrlFor({locale: 'en_US', id:'some-business'}); //-> 'https://www.yelp.com/biz/some-business'
+YelpLocales.bestPageUrlFor({locale: 'en_US', id: 'some-business'}); //-> 'https://www.yelp.com/biz/some-business'
 ```
 
 [downloads-image]: https://img.shields.io/npm/dm/yelp-locales.svg
