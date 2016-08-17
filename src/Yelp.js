@@ -2,7 +2,7 @@
 
 // The data below is based on the language selector in www.yelp.com
 
-// Maps locales to TripAdvisor domains
+// Maps locales to Yelp domains
 export const localeDomains = {
 	'ms_MY': 'ms.yelp.my',
 	'cs_CZ': 'www.yelp.cz',
